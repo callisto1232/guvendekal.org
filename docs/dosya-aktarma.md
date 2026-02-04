@@ -19,7 +19,7 @@
 [**LocalSend**](https://localsend.org/), internet bağlantısına ihtiyaç duymadan, yerel ağ üzerinden yakın cihazlarla güvenli bir şekilde dosya ve mesaj paylaşmanıza olanak tanıyan ücretsiz, açık kaynaklı bir uygulamadır.
 
 Dosya transferi tamamen eşler arası P2P (peer-to-peer) gerçekleşir ve cihazlar arasında güvenli iletişim sağlamak için REST API ve HTTPS şifrelemesi kullanır.
-Bulut depolamaya dayanan veya karmaşık kurulumlar gerektiren birçok dosya aktarım hizmetinin aksine Localsend, Windows, macOS, Linux, Android ve iOS dahil olmak üzere birden fazla platformda internet bağlantısına veya üçüncü taraf hesaplara ihtiyaç duymadan sorunsuz ve güvenli dosya aktarımı sağlar.
+Bulut depolamaya dayanan veya karmaşık kurulumlar gerektiren birçok dosya aktarım hizmetinin aksine Localsend; Windows, macOS, Linux, Android ve iOS dahil olmak üzere birden fazla platformda internet bağlantısına veya üçüncü taraf hesaplara ihtiyaç duymadan sorunsuz ve güvenli dosya aktarımı sağlar.
 
 - [Açık kaynak deposu](https://github.com/localsend/localsend)
 - [Gizlilik politikası](https://localsend.org/privacy)
